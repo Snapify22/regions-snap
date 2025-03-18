@@ -1,0 +1,28 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "deep-translator>=1.11.4",
+    "docx>=0.2.4",
+    "email-validator>=2.2.0",
+    "eventlet>=0.39.1",
+    "flask-socketio>=5.5.1",
+    "flask>=3.1.0",
+    "flask-sqlalchemy>=3.1.1",
+    "gtts>=2.5.4",
+    "gunicorn>=23.0.0",
+    "numpy>=2.2.3",
+    "openai>=1.66.3",
+    "opencv-python>=4.11.0.86",
+    "opencv-python-headless>=4.11.0.86",
+    "pillow>=11.1.0",
+    "psycopg2-binary>=2.9.10",
+    "pydub>=0.25.1",
+    "pypdf2>=3.0.1",
+    "pytesseract>=0.3.13",
+    "python-docx>=1.1.2",
+    "speechrecognition>=3.14.1",
+    "werkzeug>=3.1.3",
+]
